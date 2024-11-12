@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Anupriya Kumari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+<img align="right" alt="Coding" width="400" 
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="anjalirao2001" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya416&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya416" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalirao2001&label=Profile%20views&color=0e75b6&style=flat" alt="anjalirao2001" /> </p>
 
 - 🌱 I’m currently learning **Web Development,JavaScript,React JS**
 
