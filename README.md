@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Anupriya Kumari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" 
 <p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="anjalirao2001" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalirao2001&label=Profile%20views&color=0e75b6&style=flat" alt="anjalirao2001" /> </p>
