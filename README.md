@@ -1,11 +1,11 @@
-![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Anupriya Kumari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="anjalirao2001" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anupriya416&label=Profile%20views&color=0e75b6&style=flat" alt="Anupriya416" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalirao2001" alt="anjalirao2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anupriya416" alt="Anupriya416" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development,JavaScript,React JS**
 
